@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice)Ahram Lee
+
 ## Hi there 👋
 - 🌱 I’m currently learning Computer Programming at Seneca College
 - 😄 I’m also looking for  an internship/co-op in Toronto related to programming, web development, and data management in Toronto!

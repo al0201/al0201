@@ -1,8 +1,9 @@
 ## Hi there 👋
 - 🌱 I’m currently learning Computer Programming at Seneca College
+- 🤔 I’m also looking for  an internship/co-op in Toronto related to programming, web development, and data management in Toronto!
 ## How to reach me 📫
-- Ahram's Email :
-- Ahram's LinkedIn :
+- Ahram's Email : alee239@myseneca.ca
+- Ahram's LinkedIn : www.linkedin.com/in/ahram-lee
 
 <!--
 **al0201/al0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

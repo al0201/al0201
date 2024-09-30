@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)Ahram Lee
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 ## Hi there 👋
 - 🌱 I’m currently learning Computer Programming at Seneca College

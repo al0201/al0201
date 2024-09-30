@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🌱 I’m currently learning Computer Programming at Seneca College
+## How to reach me 📫
+- Ahram's Email :
+- Ahram's LinkedIn :
 
 <!--
 **al0201/al0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

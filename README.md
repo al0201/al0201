@@ -6,6 +6,9 @@
 - Email : alee239@myseneca.ca
 - LinkedIn : www.linkedin.com/in/ahram-lee
 
+  ![Ahram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
+
+
 <!--
 **al0201/al0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving)
 
 ## Hi there 👋
-- 🌱 I’m currently learning Computer Programming at Seneca College
-- 😄 I’m also looking for  an internship/co-op in Toronto related to programming, web development, and data management in Toronto!
+- 🌱 I’m currently learning Computer Programming at Seneca College in Canada.
+- 😄 I’m also looking for  an internship/co-op related to programming, web development, and data management in Toronto!
   
 ## How to reach me 📫
 - Email : alee239@myseneca.ca
